@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "ourProducts": "Our Products",
+  "hotOffers": "Hot Offers",
+  "itemAddedToCart": "Item added to the cart",
+  "cart": "Cart",
+  "cartEmpty": "Your cart is empty.",
+  "total": "Total",
+  "checkout": "Checkout",
+  "orderPlaced": "Order placed",
+  "orderSuccess": "Your order was placed successfully.",
+  "ok": "OK"
+}

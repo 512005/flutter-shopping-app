@@ -1,0 +1,13 @@
+{
+  "@@locale": "ar",
+  "ourProducts": "منتجاتنا",
+  "hotOffers": "العروض الساخنة",
+  "itemAddedToCart": "تم إضافة المنتج إلى العربة",
+  "cart": "العربة",
+  "cartEmpty": "سلة التسوق فارغة.",
+  "total": "الإجمالي",
+  "checkout": "إتمام الشراء",
+  "orderPlaced": "تم إرسال الطلب",
+  "orderSuccess": "تم إرسال طلبك بنجاح.",
+  "ok": "حسناً"
+}
